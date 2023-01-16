@@ -2,8 +2,8 @@
 
 ##  Changing your most recent commit is probably the most common rewriting of history that you’ll do. You’ll often want to do two basic things to your last commit: simply change the commit message, or change the actual content of the commit by adding, removing and modifying files.
 
-___If you simply want to modify your last commit message, that’s easy: 
-```git commit --amend```___
+___If you simply want to modify your last commit message, that’s easy:___
+```git commit --amend```
 
 The command above loads the previous commit message into an editor session, where you can make changes to the message, save those changes and exit. When you save and close the editor, the editor writes a new commit containing that updated commit message and makes it your new last commit.
 
