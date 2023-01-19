@@ -1,4 +1,4 @@
-# Main differences between the ```git pull``` and ```git``` fetch commands
+# Main differences between the ```git pull``` and ```git fetch``` commands
 
 ## You can download content from a remote repository using two commands: ```git pull``` and ```git fetch```. Of these two commands, git fetch can be considered a "safe" option. 
 
