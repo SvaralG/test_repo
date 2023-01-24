@@ -1,8 +1,12 @@
-# Main differences between the ```git pull``` and ```git fetch``` commands
+# JavaScript Operators
 
-## You can download content from a remote repository using two commands: ```git pull``` and ```git fetch```. Of these two commands, git fetch can be considered a "safe" option. 
+* Arithmetic Operators
+* Assignment Operators
+* Comparison Operators
+* Logical Operators
+* Conditional Operators
+* Type Operators
 
-\* _It downloads remote content, but does not update the working state of the local repository, leaving the current work intact._
+## Dynamic typing
+Dynamic typing  is a technique used in programming languages ​ ​ and specification languages ​ ​ in which a variable is associated with a type at the time the value is assigned, and not at the time the variable is declared. Thus, in different sections of the program, the same variable can take values ​ ​ of different types
 
-\*_The git pull command is more aggressive: it loads remote content for the active local branch and immediately executes the git merge command, creating a merge commit for the new remote content. If you have pending changes, conflicts will occur and the merge conflict resolution process will start._
-### change3
