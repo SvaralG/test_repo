@@ -8,5 +8,5 @@ console.log(`GAP ${gradePointAverage}`);
 
 let studentName = "Petr"
 let studentSurname = "Ivanov"
-let student = studentName + studentSurname
+let student = studentName + " " + studentSurname
 console.log(`GAP of student ${student} ${gradePointAverage} points`);
