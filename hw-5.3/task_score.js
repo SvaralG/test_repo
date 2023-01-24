@@ -1,4 +1,4 @@
-let introduction = 10
+let introduction = 10;
 let git = 50;
 let js = 90;
 let total = introduction + git + js
