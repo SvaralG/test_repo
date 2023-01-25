@@ -1,0 +1,10 @@
+/* When evaluating expressions, JavaScript takes into account the priority of operations: 
+operations with higher priority are performed first. If operations have equal priority, 
+they are performed from left to right. To change the order of operations, use parentheses: 
+the expression enclosed in them has the highest priority. 
+*/
+let value1 = 10
+let value2 =Math.floor(Math.random() * 100)
+let sum = value1 + value2 
+
+console.log(sum)
