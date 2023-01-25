@@ -6,8 +6,9 @@ let gradePointAverage = total/3
 
 console.log(`GAP ${gradePointAverage}`);
 
-let studentName = "Petr"
+let studentName = "P."
 let studentSurname = "Ivanov"
 let student = studentName + " " + studentSurname
+let copyStudent = student.slice(0,1)
 
-console.log(`GAP of student ${student} ${gradePointAverage} points`);
+console.log(`GAP of student ${copyStudent} ${gradePointAverage} points`);
