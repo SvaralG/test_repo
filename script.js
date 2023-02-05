@@ -1,4 +1,4 @@
-let newYear = "New year - big party";
+cdlet newYear = "New year - big party";
 console.log(newYear);
 console.log(typeof newYear);
 
