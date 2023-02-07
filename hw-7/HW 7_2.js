@@ -27,8 +27,8 @@ const players = [
     for (let player of players){
         scorePoints.push (player.scorePoints)
     }
-    
+
 let max = Math.max (...scorePoints);
-   console.log (`max score is: ${max}`); 
+   console.log (`max score is: ${max}`);
 
     
