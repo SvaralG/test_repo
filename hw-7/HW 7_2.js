@@ -31,4 +31,6 @@ const players = [
 let max = Math.max (...scorePoints);
    console.log (`max score is: ${max}`);
 
+   
+
     
